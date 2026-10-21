@@ -1,0 +1,1 @@
+var e={heroProgress:0,pointerX:0,pointerY:0,dragVelocity:0,velocity:0,sceneReady:!1};export{e as t};
